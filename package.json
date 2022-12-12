@@ -1,0 +1,19 @@
+{
+  "name": "nodejstut",
+  "version": "1.0.0",
+  "description": "node js learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivain07/nodejsTut.git"
+  },
+  "author": "shivain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivain07/nodejsTut/issues"
+  },
+  "homepage": "https://github.com/shivain07/nodejsTut#readme"
+}
